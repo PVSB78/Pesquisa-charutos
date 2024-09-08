@@ -1,4 +1,4 @@
-## Criando um README detalhado para o seu projeto
+## README
 
 **Título: Catálogo Interativo de Charutos**
 
